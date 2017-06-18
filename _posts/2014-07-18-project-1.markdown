@@ -9,6 +9,6 @@ thumbnail: voteUp-thumbnail.png
 alt: image-alt
 project-date: Oct 2015
 category: Mobile Development
-description: This election assistant application allows users to 1) Check the eligibility of their voting right,together with voting region 2) Search for the competing candidates depending on voting boundaries 3) Experience voting procedure before hands with sample game
+description: This election assistant application allows users to </br> 1) Check the eligibility of their voting right,together with voting region 2) Search for the competing candidates depending on voting boundaries 3) Experience voting procedure before hands with sample game
 
 ---
