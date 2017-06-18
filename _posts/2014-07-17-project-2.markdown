@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Mobile Development
-description: Read trending articles from different parts of the world, Watch video coverage of the latest news,Bookmark the favorite news.
+description: The app allows to </br> 1) Read trending articles from different parts of the world </br> 2) Watch video coverage of the latest news </br> 3) Bookmark the favorite news.
 
 ---
