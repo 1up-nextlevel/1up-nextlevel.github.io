@@ -9,7 +9,7 @@ description: "This is a portfolio website for Oneup Labs.  Oneup.Nextlevel is a 
 # Team names, titles and social links
 people:
 - name: Cho Zin Tun
-  pic: czt
+  pic: czt1
   position: Co-Founder
   social:
     - title: twitter
@@ -20,7 +20,7 @@ people:
       url: https://www.linkedin.com/in/cho-zin-tun-9217a2a3/
 
 - name: Shwe Soe Chun
-  pic: ssc
+  pic: ssc1
   position: Co-Founder
   social:
     - title: twitter
@@ -30,6 +30,17 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/shwe-soe-chun-381b10b4/
 
+- name: Ingine Hmwe
+  pic: ig
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/ingine-hmwe-shelly-13a9b854/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -38,7 +49,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
