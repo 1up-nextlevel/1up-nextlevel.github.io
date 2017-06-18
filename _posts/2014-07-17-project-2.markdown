@@ -1,15 +1,14 @@
 ---
-title: Xinhua Myanmar
-subtitle: News Application
+title: VoteUp
+subtitle: Myanmar 2015 Election Assistant
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: xinhua.png
-thumbnail: xinhua-thumbnail.png
+date: 2015-10-18
+img: voteUp.png
+thumbnail: voteUp-thumbnail.png
 alt: image-alt
 project-date: Oct 2015
 category: Mobile Development
-description: Xinhua Myanmar Apps brings the latest trending and breaking news from Myanmar and around the world. The app allows to:</br>
-1) Read trending articles from different parts of the world
-2) Watch video coverage of the latest news
-3) Bookmark the favorite news.
+description: This election assistant application allows users to </br> 1) Check the eligibility of their voting right,together with voting region </br> 2) Search for the competing candidates depending on voting boundaries </br> 3) Experience voting procedure before hands with sample game
+
+---
