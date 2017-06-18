@@ -7,9 +7,9 @@ date: 2014-07-17
 img: xinhua.png
 thumbnail: xinhua-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: Oct 2015
 category: Mobile Development
-description: Xinhua Myanmar Apps brings the latest trending and breaking news from Myanmar and around the world. The app allows to:</br> 
+description: Xinhua Myanmar Apps brings the latest trending and breaking news from Myanmar and around the world. The app allows to:</br>
 1) Read trending articles from different parts of the world
 2) Watch video coverage of the latest news
 3) Bookmark the favorite news.
