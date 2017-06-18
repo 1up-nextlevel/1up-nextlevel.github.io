@@ -13,4 +13,5 @@ description: Xinhua Myanmar Apps brings the latest trending and breaking news fr
 1) Read trending articles from different parts of the world
 2) Watch video coverage of the latest news
 3) Bookmark the favorite news.
+
 ---
