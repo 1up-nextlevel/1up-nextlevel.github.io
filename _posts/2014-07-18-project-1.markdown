@@ -7,9 +7,8 @@ date: 2014-07-18
 img: voteUp.png
 thumbnail: voteUp-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Oct 2015
+category: Mobile Development
+description: This election assistant application allows users to 1) Check the eligibility of their voting right,together with voting region 2) Search for the competing candidates depending on voting boundaries 3) Experience voting procedure before hands with sample game
 
 ---
