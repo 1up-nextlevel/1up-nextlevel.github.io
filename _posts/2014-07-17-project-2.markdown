@@ -10,6 +10,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Mobile Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:  Xinhua Myanmar Apps brings the latest trending and breaking news from Myanmar and around the world. The app allows to: </br>
+1) Read trending articles from different parts of the world
+2) Watch video coverage of the latest news
+3) Bookmark the favorite news.
 
 ---
