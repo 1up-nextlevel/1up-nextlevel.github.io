@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Xinhua Myanmar
+subtitle: News Application
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: xinhua.png
+thumbnail: xinhua-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
----
+category: Mobile Development
+description: Xinhua Myanmar Apps brings the latest trending and breaking news from Myanmar and around the world. The app allows to:</br> 
+1) Read trending articles from different parts of the world
+2) Watch video coverage of the latest news
+3) Bookmark the favorite news.

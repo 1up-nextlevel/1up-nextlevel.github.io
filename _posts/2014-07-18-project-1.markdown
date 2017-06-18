@@ -3,7 +3,7 @@ title: VoteUp
 subtitle: Myanmar 2015 Election Assistant
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-10-18
 img: voteUp.png
 thumbnail: voteUp-thumbnail.png
 alt: image-alt
