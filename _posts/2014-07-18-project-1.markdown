@@ -4,8 +4,8 @@ subtitle: Myanmar 2015 Election Assistant
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: VoteUpFrontCover.png
-thumbnail: VoteUpFrontCover.png
+img: voteUp.png
+thumbnail: voteUp-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
