@@ -3,7 +3,7 @@ title: Public Info chatbot
 subtitle: Tax, YCDC, NRC
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2016-07-15
 img: chatbot.png
 thumbnail: chatbot-thumbnail.png
 alt: image-alt
