@@ -7,8 +7,7 @@ date: 2016-07-15
 img: hotel.png
 thumbnail: hotel-thumbnail.png
 alt: image-alt
-project-date: Dec 2016
-client: Start Bootstrap
+project-date: March 2017
 category: Web Development
 description: Hotel Management System is one-stop hotel owners' assistant. It allows to </br> 1) make room reservation </br> 2) checkin/checkout the room </br> 3) manage inventory </br> 4) track/manage cash flow </br> 5) generate reports .
 

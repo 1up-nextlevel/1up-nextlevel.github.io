@@ -7,8 +7,7 @@ date: 2016-07-15
 img: chatbot.png
 thumbnail: chatbot-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2017
 category: Messenger chatbot
 description: This chatbot could responsively provide Myanmar citizens with relevant info concerning with </br> 1) Tax </br> 2) YCDC </br> 3) NRC  </br>.
 

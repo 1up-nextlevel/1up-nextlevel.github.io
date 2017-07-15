@@ -7,8 +7,7 @@ date: 2015-12-15
 img: newsApp.png
 thumbnail: newsApp-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2016
 category: Mobile Development
 description: The app allows to </br> 1) Read trending articles from different parts of the world </br> 2) Watch video coverage of the latest news </br> 3) Bookmark the favorite news.
 
