@@ -12,9 +12,24 @@ people:
   pic: czt1
   position: Co-Founder
   social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
     - title: linkedin
       url: https://www.linkedin.com/in/cho-zin-tun-9217a2a3/
 
+- name: Shwe Soe Chun
+  pic: ssc1
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/shwe-soe-chun-381b10b4/
+      
 - name: Ingine Hmwe
   pic: ig
   position: Co-Founder
@@ -26,12 +41,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ingine-hmwe-shelly-13a9b854/
 
-- name: Shwe Soe Chun
-  pic: ssc1
-  position: Co-Founder
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/shwe-soe-chun-381b10b4/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
