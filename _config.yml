@@ -12,23 +12,8 @@ people:
   pic: czt1
   position: Co-Founder
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: https://www.linkedin.com/in/cho-zin-tun-9217a2a3/
-
-- name: Shwe Soe Chun
-  pic: ssc1
-  position: Co-Founder
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: https://www.linkedin.com/in/shwe-soe-chun-381b10b4/
 
 - name: Ingine Hmwe
   pic: ig
@@ -41,24 +26,31 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ingine-hmwe-shelly-13a9b854/
 
+- name: Shwe Soe Chun
+  pic: ssc1
+  position: Co-Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/shwe-soe-chun-381b10b4/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+#markdown: kramdown
+#permalink: pretty
